@@ -1,4 +1,4 @@
-# Classy Endeavors - Instagram Stories Feature
+# Stage - Instagram Stories Feature
 
 This project replicates the Instagram Stories feature in a modern web application. It allows users to view a series of stories, swipe between them, like them, and send messages. The project is built with React, TypeScript, and custom CSS Modules to ensure a modular and maintainable codebase.
 
