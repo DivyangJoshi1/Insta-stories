@@ -3,7 +3,6 @@ import './App.css'
 import StoryList from "./components/StoryList/StoryList";
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
