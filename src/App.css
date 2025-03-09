@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Montserrat:wght@600&display=swap');
+
+#root {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+/* Ensure app container is full width */
+.appContainer {
+  width: 100%;
+  padding: 0 15px; /* Add padding to match Instagram */
+  margin-top: 20px; /* Push stories down slightly */
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: #262626;
+  text-align: left !important;
+  padding-left: 10px;
+  margin: 0;
+  padding-top: 10px; 
+  margin-bottom: 15px;
+}
